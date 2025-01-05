@@ -1,0 +1,6 @@
+[10-11-2024 23:49:34]: Registry file is created at files\registerfile.txt!
+[10-11-2024 23:49:34]: files\monitored\monitor.txt is added to registry.
+[10-11-2024 23:49:34]: files\monitored\x1.txt is added to registry.
+[10-11-2024 23:49:34]: files\monitored\x2.txt is added to registry.
+[10-11-2024 23:49:34]: 3 files are added to the registry and registry creation is finished!
+[10-11-2024 23:49:38]: Registry file verification failed!
